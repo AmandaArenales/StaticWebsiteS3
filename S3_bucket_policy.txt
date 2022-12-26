@@ -1,0 +1,15 @@
+{
+  "Id": "Policy1672098261163",
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "Stmt1672096902721",
+      "Action": [
+        "s3:GetObject"
+      ],
+      "Effect": "Allow",
+      "Resource": "arn:aws:s3:::aarenales-web-static/*",
+      "Principal": "*"
+    }
+  ]
+}
