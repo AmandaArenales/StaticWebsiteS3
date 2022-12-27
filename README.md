@@ -11,7 +11,7 @@ First, you need to go to the Amazon S3 console and click on *Create a bucket* to
 
 2. **Upload the object**
 
-After the bucket is created, the file [index.html](index.html) was uploaded to the bucket. Under the *Object* tab if you click on that file you will have more details about it.
+After the bucket is created, the file [index.html](index.html) was uploaded into the bucket. Under the *Object* tab if you click on that file you will have more details about it.
 
 ![alt text](File_upload.JPG)
 
