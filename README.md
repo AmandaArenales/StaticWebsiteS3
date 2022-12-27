@@ -29,7 +29,7 @@ Next, go to *Bucket policy* and click on *Edit*. Then, select the *Policy genera
 
 In the tab *Properties*, scroll down until *Static website hosting*.  Next click on *Edit*, and select *Enable* on the *Static website hosting* section. After that specify your index document, in my case [index.html](index.html), and save it. Back to the *Properties* tab, scroll down again and you will see under the *Static website hosting* a *Bucket website endpoint*, where you can copy the URL to your website.
 
-![alt text](Static_website.JPG)
+![alt text](https://github.com/AmandaArenales/StaticWebsiteS3/blob/main/Static_website.JPG)
 
 
 
