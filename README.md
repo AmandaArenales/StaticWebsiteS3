@@ -7,7 +7,7 @@ Here are described the steps to create a static website hosted on Amazon S3.
 
 First, you need to go to the Amazon S3 console and click on *Create a bucket* to store the data. After that, you need to insert a bucket name that must be globally unique and choose the AWS region that is close to where you are located. The others settings I left as default. Then I created the bucket. 
 
-![alt text](Bucket_S3.JPG)
+![alt text](https://github.com/AmandaArenales/StaticWebsiteS3/blob/main/Bucket_static_website.JPG)
 
 2. **Upload the object**
 
