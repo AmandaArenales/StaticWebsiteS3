@@ -13,7 +13,7 @@ First, you need to go to the Amazon S3 console and click on *Create a bucket* to
 
 After the bucket is created, the file [index.html](index.html) was uploaded into the bucket. Under the *Object* tab if you click on that file you will have more details about it.
 
-![alt text](File_upload.JPG)
+![alt text](https://github.com/AmandaArenales/StaticWebsiteS3/blob/main/File_upload.JPG)
 
 3. **Bucket Policy**
 
