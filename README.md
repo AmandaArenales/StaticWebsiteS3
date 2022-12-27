@@ -19,7 +19,7 @@ To make the file public is necessary to go to the *Permissions* tab and allow pu
 
 Next, go to *Bucket policy* and click on edit. Then, select the *Policy generator*. In the *Select Type of Policy* click on *S3 Bucket Policy*; in *Effect* click on *Allow*; in *Principal* you need to write `*` because you want to allow everyone on the Amazon S3 Service to read the object on the bucket. In *Actions*, you need to select *GetObject* and in *Amazon Resource Name (ARN)* needs to be your `bucket name + /*` (for example, in my case was: `arn:aws:s3:::aarenales-web-static/*`). After all this is done, you click on *Generate Policy*. This will save the changes and generate the policy that you will use later on the *Bucket Policy*. Below you can the fragment of the page filled:
 
-
+![alt text](https://github.com/AmandaArenales/StaticWebsiteS3/blob/main/Policy_generetor.JPG)
 
 4. Creating a static website hosting
 
